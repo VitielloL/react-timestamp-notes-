@@ -91,15 +91,6 @@ src/
 3. Cada nome será registrado com a hora exata da adição
 4. Os nomes aparecem em cards com a informação do timestamp
 
-## 🎯 Próximas Melhorias
-
-- [ ] Remover nomes da lista
-- [ ] Editar nomes existentes
-- [ ] Persistir dados no localStorage
-- [ ] Dark mode
-- [ ] Exportar lista em PDF
-- [ ] Buscar perfil do GitHub automaticamente
-
 ## 📄 Licença
 
 Este projeto é de código aberto e disponível sob a licença MIT.
